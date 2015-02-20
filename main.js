@@ -4,7 +4,7 @@ var green = [75, 100, 40];
 var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 
-var myName = "Anshu Raj";
+var myName = prompt("Please enter your name ");
 var letterColors = [red, orange, green]
 var bubbleShape = "square";
 if(10>3){
